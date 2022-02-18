@@ -3,6 +3,7 @@
 ## table of contents
 - [codedeploy](#codedeploy)
 - [cloudformation](#cloudformation)
+- [secure authorization](#secure-authorization)
 
 ## codedeploy
 ### typical scenario: use codeDeploy to achieve application deployment to EC2 fleet
