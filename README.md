@@ -12,6 +12,8 @@
 ### customer case: use codeDeploy to accomplish cross-region application deployment
 codeDeploy uses Tag/deployment group to choose the target ec2 instances
 ![image](https://user-images.githubusercontent.com/97269758/154800967-875171c8-4b2e-427f-91da-0e0383ab0ac5.png)
+
+related service role: 
 ![image](https://user-images.githubusercontent.com/97269758/154800971-02529a0a-c9b0-4c11-bc16-bdb36855f4f5.png)
 
 ## cloudformation
